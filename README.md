@@ -1,13 +1,14 @@
 # CaIN: Low Power and Low Latency VHF Mesh Networking
 A repository containing code, hardware design, and documentation for the paper 
-*"CaIN: Low Power and Low Latency VHF Mesh Networking."*
+
+> Mengyao Liu, Bingwu Fang, Jonathan Oostvogels, Sam Michiels, Andrei Belogaev, Xinlei Liu, Jeroen Famaey, Danny Hughes,"*CaIN: Low Power and Low Latency VHF Mesh Networking*", the 21st International Conference on Embedded Wireless Systems and Networks, EWSN '24: Proceedings of the 2024 International Conference on embedded Wireless Systems and Networks, Abu Dhabi, UAE, December 10-13, 2024
 
 ## Table of Contents
 1. [Abstract](#abstract)
 2. [Project Structure](#project-structure)
    - [Hardware](#hardware)
    - [Software](#software)
-3. [Reference](#reference)
+
 
 
 ## Abstract
@@ -55,8 +56,8 @@ In the `Software` folder, you will find:
    - When acting as a transmitter, the MCU drives the RF switch via a GPIO pin to connect the antenna to the transmitter front end, enabling **transmit mode**.
 
 ---
-## Referenece: 
-Mengyao Liu, Bingwu Fang, Jonathan Oostvogels, Sam Michiels, Andrei Belogaev, Xinlei Liu, Jeroen Famaey, Danny Hughes, CaIN: Low Power and Low Latency VHF Mesh Networking, he 21st International Conference on Embedded Wireless Systems and Networks, EWSN '24: Proceedings of the 2024 International Conference on embedded Wireless Systems and Networks, Abu Dhabi, UAE, December 10-13, 2024 
+
+
 
 MIT License
 Copyright (c) 2024 ...
