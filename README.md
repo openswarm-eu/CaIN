@@ -32,5 +32,5 @@ All software code was written using the Arduino IDE, and the evaluation board us
 | TRF37D73                     | TRF37D73          | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
 | SMA-EDGE-S                   | SMA-EDGE-S        | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
 
-
 ### Software
+In the `Software` folder, you will find: 
