@@ -32,16 +32,16 @@ All software code was written using the **Arduino IDE**, and the evaluation boar
 #### Main Components on the CaIN Transceiver
 | **CAIN Prototype Components** | **Part Number**  | **Purchase Link**                                              |
 |------------------------------:|:----------------:|:--------------------------------------------------------------:|
-| SMS7630-005LF                | SMS7630-005LF     | [Digi-Key](https://www.digikey.com/en/products/detail/???/???) |
-| ADG918                       | ADG918            | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
-| ADG902                       | ADG902            | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
-| TLV7031                      | TLV7031           | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
-| LTC6905                      | LTC6905           | [Digi-Key](https://www.digikey.com/en/products/detail/???/???) |
-| TRF37D73                     | TRF37D73          | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
-| SMA-EDGE-S                   | SMA-EDGE-S        | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
+| Rectifying Diodes                | SMS7630-005LF     | [Digi-Key](https://www.digikey.com/en/products/detail/???/???) |
+| RF SPDT Switche                      | ADG918            | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
+| RF SPST Switche                       | ADG902            | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
+| Analog Comparator                      | TLV7031           | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
+| VCO                      | LTC6905           | [Digi-Key](https://www.digikey.com/en/products/detail/???/???) |
+| RF Amplifier                     | TRF37D73          | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
+| Antenna Connector                 | SMA-EDGE-S        | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
 
 ---
-
+RF SPDT Switches 
 ### Software
 In the `Software` folder, you will find:
 
