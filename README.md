@@ -41,7 +41,6 @@ All software code was written using the **Arduino IDE**, and the evaluation boar
 | Antenna Connector                 | SMA-EDGE-S        | [Mouser](https://www.mouser.com/ProductDetail/???/???)         |
 
 ---
-RF SPDT Switches 
 ### Software
 In the `Software` folder, you will find:
 
